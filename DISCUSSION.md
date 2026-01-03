@@ -1,3 +1,5 @@
+# Archived: This was the dev logs for each phase of the project to go over the example workflow when creating the app. 
+
 # Getting Started
 
 Check out the actual [app](https://goud-network.aramhammoudeh.com/) and [api documentation](https://goud-network.aramhammoudeh.com/api/docs) to get a feel for the project. If you want to dive deeper on the UI, check out the [storybook](https://goud-network-storybook.aramhammoudeh.com). If you are interested in high level summary, skip to [TLDR;](#tldr) but if you are up for a deep dive, read on.
